@@ -1,1 +1,2 @@
-hi product.
+Product Details:
+ i want the product price and description 
